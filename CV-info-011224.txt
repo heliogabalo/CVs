@@ -8,37 +8,37 @@ r4u1974@gmail.com
 ### EXPERIENCIA PROFESIONAL
 
 PCGlobal - Autónomo.
-* Como vendedor comercial y técnico, ocupé un puesto clave para asegurar la
-satisfacción del cliente; ofreciendo soluciones tanto en la venta e
-instalación, como en el mantenimiento de productos y servicios.
+* Como vendedor comercial y técnico - (20 años), ocupé un puesto clave para asegurar
+la satisfacción del cliente; ofreciendo soluciones tanto en la venta e instalación,
+como en el mantenimiento de productos y servicios.
 
 TERRITORIO LINUX - administrador de servidores.
-* Como administrador de VM's y programador web, desempeñé dos roles
-complementarios, garantizando el funcionamiento eficiente y estable en
-entorno de servidor e implementando aplicaciones web con distintos lenguajes.
+* Como administrador de VM's y programador web - (5 años), desempeñé dos roles
+complementarios, garantizando el funcionamiento eficiente y estable en entorno de
+servidor e implementando aplicaciones web con distintos lenguajes.
 
 INFORGLOB, S.L - Operario equipos de cómputo​.
-* Es un papel fundamental en el funcionamiento de diversos sistemsas y
-equipos; velando por su operatividad y prolongando su vida útil. Mejoré
-mis capacidades técnicas para identificar y solucionar problemas.
+* Es un papel fundamental en el funcionamiento de diversos sistemsas y equipos;
+velando por su operatividad y prolongando su vida útil. Mejoré mis capacidades
+técnicas para identificar y solucionar problemas (42 años).
 
-TECSYS DATA BASES(Inglaterra) - Ayudante oficina.
-* Como asistente de oficina técnica, desempeñé un papel crucial en la 
-organización y eficiencia de procesos administrativos y operativos. Además,
-aprendí técnicas específicas en la gestión de bases de datos.
+TECSYS DATA BASES(Inglaterra), Ayudante oficina.
+* Como asistente de oficina técnica - (15 años), desempeñando un papel crucial en la 
+organización y eficiencia de procesos administrativos y operativos. Además, aprendí
+técnicas específicas en la gestión de bases de datos.
 
 SURIS INGENIERIA, S.A - Administrativo Compras.
-* Mi función como administrativo de compras, estaba centrada en evitar la
-excasez o exceso de materiales. Asegurar que los productos entregados
-fuesen los adecuados. Contribuir al éxito y rentabilidad de los proyectos.
+* Mi función como administrativo de compras - (4 años), se centraba en evitar la
+excasez o exceso de materiales. Asegurar que los productos entregados fuesen los
+adecuados. Contribuir al éxito y rentabilidad de los proyectos.
 
-ELECTRO STOCKS PALMA DE MALLORCA - Responsable Almacén.
-* Me ocupé del control de stock, que es un aspecto fundamental en la gestión
-de un negocio; su adecuada gestión, contribuye a fidelizar clientes y
-aumetar las ventas aportando valor como cadena de confianza.
+ELECTRO STOCKS PALMA DE MALLORCA, Responsable Almacén.
+* Me ocupé del control de stock - (2 años), el rol consistía en organizar el trabajo
+de un grupo de [3-4] personas, en tareas como envalar/empaquetar, revisar materiales
+en la entrada/salida, poner a cargar las baterías, etc.
 
-ELECTRO STOCKS CONDAL(BCN) - Responsable Almacén.
-* Me ocupé del control de stock, que es un aspecto fundamental en la gestión
+ELECTRO STOCKS CONDAL(BCN), Responsable Almacén.
+* Me ocupé del control de stock - (5 años), que es un aspecto fundamental en la gestión
 de un negocio; su adecuada gestión, contribuye a fidelizar clientes y
 aumetar las ventas aportando valor como cadena de confianza.
 
@@ -51,7 +51,7 @@ Programación:
 		- Entorno cónsola(dkms, git, rpm, gedit, gcc, autotools, virsh).
 		- Soporte medio virtual con optimizador/deduplicador(VDO).
 	Unix, MsDos, C/C++, Python, OpenGL, OpenAL, Git, Ruby, Javascript,
-	Html, Xml, Css, df = f'(x)Δx.
+	Html, Xml, Css, df = f'(x)Δx, (httpt://heliogabalo.github.io).
 	Red Hat(no certificado).
 	Administrativo FP II.
 
