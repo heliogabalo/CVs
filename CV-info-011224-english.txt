@@ -23,22 +23,25 @@ INFORGLOB, S.L - Computer equipment operator.
 equipment, ensuring their functionality end extending their lifespan. I
 have improved my technical skills to identify and solve problems.
 
-INFORGLOB, S.L - Computer equipment operator.* As a technical office assistant, I played a crucial role in the organization
+TECSYS DATA BASES(Inglaterra) - Office assistant.
+* As a technical office assistant, I played a crucial role in the organization
 and efficiency of administrative and operational processes. Additionally, I
 learned specific techniques in database management.
 
-SURIS ENGINEERING, S.A - Purchasing manger.* My role as a purchasing administrator was focused on preventing material
+SURIS ENGINEERING, S.A - Purchasing manger.
+* My role as a purchasing administrator was focused on preventing material
 shortages or surpluses. Ensuring that the delivered products were the
 correct ones. Contributing to the success and profitability of projects.
 
-ELECTRO STOCKS, PALMA DE MALLORCA - Warhouse manager.* I was in charge of stock control, which is a fundamental aspect of
+ELECTRO STOCKS, PALMA DE MALLORCA - Warhouse manager.
+* I was in charge of stock control, which is a fundamental aspect of
 buisiness management. Proper management contributes to customer loyalty
 and increased sales, adding value as a trust chain.
 
-ELECTRO STOCKS CONDAL, BARCELONA - Warhouse manager.* I was in charge of stock control, which is a fundamental aspect of
+ELECTRO STOCKS CONDAL, BARCELONA - Warhouse manager.
+* I was in charge of stock control, which is a fundamental aspect of
 buisiness management. Proper management contributes to customer loyalty
 and increased sales, adding value as a trust chain.
-
 
 ### EDUCATION
 
@@ -50,7 +53,7 @@ Programing:
 	- Command line environment(rpm, git, dkms, gedit, gcc, virsh).
 	- Support to virtual media with optimizer/deduplicator(VDO).
 	Linux/Unix, MsDos, C/C++, Python, OpenGL, OpenAL, Git, Ruby, Javascript,
-	Html, Xml, Css.
+	Html, Xml, Css, df = f'(x)Δx.
 	Red Hat(uncerfitied).
 	Administrative FP II.
 	
@@ -63,3 +66,4 @@ Programing:
 - course: recycling of electrical components.
 - courses: driving licenses: B1-C1-C-C+E-BTP-CAP.
 - Native of Barcelona, 20-05-1974
+
