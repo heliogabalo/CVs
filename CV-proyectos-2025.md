@@ -22,29 +22,29 @@ Desarrollador y administrador de sistemas con una sólida trayectoria que abarca
 
 ### Proyectos Personales Destacados
 
-**Proyecto 1: `heliogabalo.github.io`**
+**Proyecto 1 (Más Reciente): `raul-dev2025.github.io`**
 
-*   **Descripción:** (Ej: Mi blog personal y portafolio técnico donde publico artículos sobre desarrollo en Linux y tutoriales de programación. Desarrollado con Jekyll/Hugo y desplegado con GitHub Pages).
-*   **Tecnologías Clave:** (Ej: HTML, CSS, JavaScript, Markdown).
-*   **Enlace:** `https://heliogabalo.github.io`
-
-**Proyecto 2: `raulDev-heliogabalo.io` (basado en `raulDev-heliogabalo.io.git`)**
-
-*   **Descripción:** (Ej: Una aplicación web interactiva para... Describe aquí el propósito del proyecto, qué problema resuelve y tu rol en él).
-*   **Tecnologías Clave:** (Ej: React, Node.js, MongoDB, Docker).
-*   **Enlace:** (Si está desplegado, pon aquí la URL).
-
-**Proyecto 3: `raul-dev2025.github.io`**
-
-*   **Descripción:** (Ej: Un proyecto para explorar... Describe aquí el objetivo de este repositorio. ¿Es una librería, una demo, un clon de alguna aplicación?).
+*   **Descripción:** (Este es tu proyecto más reciente. Describe aquí su objetivo, las tecnologías que estás explorando o el problema que resuelve).
 *   **Tecnologías Clave:** (Ej: Python, Flask, SQLite).
 *   **Enlace:** (Si está desplegado, pon aquí la URL).
+
+**Proyecto 2: `raulDev-heliogabalo.io` (Entorno de Colaboración)**
+
+*   **Descripción:** Fork del proyecto principal (`heliogabalo.github.io`) utilizado para simular un entorno de trabajo colaborativo. A través de diferentes cuentas, demuestro la gestión de un flujo de trabajo realista en equipo, incluyendo `pull requests`, revisión de código y gestión de ramas (`branches`), validando mi capacidad para integrarme en equipos de desarrollo.
+*   **Tecnologías Clave:** (Heredadas del proyecto principal, ej: Git, GitHub, HTML, CSS, JavaScript).
+*   **Enlace:** (Si está desplegado, pon aquí la URL).
+
+**Proyecto 3 (Principal): `heliogabalo.github.io`**
+
+*   **Descripción:** Repositorio principal de mi página web y portafolio. (Describe aquí el propósito del sitio: ¿es un blog técnico, una web personal, una aplicación?).
+*   **Tecnologías Clave:** (Ej: HTML, CSS, JavaScript, Jekyll/Hugo).
+*   **Enlace:** `https://heliogabalo.github.io`
 
 ---
 
 ### Experiencia Profesional
 
-**PCGlobal / TERRITORIO LINUX – Autónomo** | (20 años / 5 años)
+**PCGlobal / TERRITORIO LINUX – Autónomo** | (20 años / 5 años respectivamente)
 *   Como administrador de VMs y desarrollador web, garanticé el funcionamiento eficiente de entornos de servidor e implementé aplicaciones web.
 *   Ocupé un puesto clave para asegurar la satisfacción del cliente, ofreciendo soluciones en venta, instalación y mantenimiento de productos.
 
