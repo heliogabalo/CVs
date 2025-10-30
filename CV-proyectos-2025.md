@@ -31,7 +31,7 @@ Desarrollador y administrador de sistemas con una sólida trayectoria que abarca
 **Proyecto 2: `raulDev-heliogabalo.io` (Entorno de Colaboración)**
 
 *   **Descripción:** Fork del proyecto principal (`heliogabalo.github.io`) utilizado para simular un entorno de trabajo colaborativo. A través de diferentes cuentas, demuestro la gestión de un flujo de trabajo realista en equipo, incluyendo `pull requests`, revisión de código y gestión de ramas (`branches`), validando mi capacidad para integrarme en equipos de desarrollo.
-*   **Tecnologías Clave:** (Heredadas del proyecto principal, ej: Git, GitHub, HTML, CSS, JavaScript).
+*   **Metodologías Clave:** Flujo de trabajo Git/GitHub, Pull Requests (PRs), Revisión de Código, Gestión de Ramas.
 *   **Enlace al Repositorio:** `https://github.com/raul-dev2025/heliogabalo.github.io`
 
 **Proyecto 3 (Web Profesional y Portafolio): `raulvilchez.org`**
