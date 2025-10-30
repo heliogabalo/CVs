@@ -34,10 +34,10 @@ Desarrollador y administrador de sistemas con una sólida trayectoria que abarca
 *   **Tecnologías Clave:** (Heredadas del proyecto principal, ej: Git, GitHub, HTML, CSS, JavaScript).
 *   **Enlace al Repositorio:** `https://github.com/raul-dev2025/heliogabalo.github.io`
 
-**Proyecto 3 (Principal): `heliogabalo.github.io`**
+**Proyecto 3 (Web Profesional y Portafolio): `raulvilchez.org`**
 
-*   **Descripción:** Repositorio principal de mi página web y portafolio. (Describe aquí el propósito del sitio: ¿es un blog técnico, una web personal, una aplicación?).
-*   **Tecnologías Clave:** (Ej: HTML, CSS, JavaScript, Jekyll/Hugo).
+*   **Descripción:** Mi web profesional y portafolio principal, concebida como un espacio comercial para la interacción con clientes. El sitio centraliza mi oferta de servicios (desarrollo, administración de sistemas), permite el contacto directo y muestra mi trabajo a través de los proyectos destacados. Actúa como el eje de mi presencia digital, con `heliogabalo.github.io` como repositorio base.
+*   **Tecnologías Clave:** HTML5, CSS3, JavaScript, Git, GitHub Pages.
 *   **Enlace:** `https://raulvilchez.org`
 
 ---
