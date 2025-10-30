@@ -22,11 +22,11 @@ Desarrollador y administrador de sistemas con una sólida trayectoria que abarca
 
 ### Proyectos Personales Destacados
 
-**Proyecto 1 (Más Reciente): `raul-dev2025.github.io`**
+**Proyecto 1 (Documentación Centralizada): `docs.raulvilchez.org`**
 
-*   **Descripción:** (Este es tu proyecto más reciente. Describe aquí su objetivo, las tecnologías que estás explorando o el problema que resuelve).
-*   **Tecnologías Clave:** (Ej: Python, Flask, SQLite).
-*   **Enlace:** (Si está desplegado, pon aquí la URL).
+*   **Descripción:** Hub de documentación centralizado para todos mis proyectos, construido sobre el motor Read The Docs. Este sitio, alojado en un subdominio propio, sirve como un punto único de referencia para manuales técnicos, guías de usuario y notas de desarrollo, asegurando que la información sea accesible, versionada y esté bien organizada. El repositorio base es `raul-dev2025.github.io`.
+*   **Tecnologías Clave:** Python, Read The Docs, Sphinx, reStructuredText (reST), Git.
+*   **Enlace:** `https://docs.raulvilchez.org/`
 
 **Proyecto 2: `raulDev-heliogabalo.io` (Entorno de Colaboración)**
 
