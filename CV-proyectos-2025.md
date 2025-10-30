@@ -42,25 +42,23 @@ Desarrollador y administrador de sistemas con una sólida trayectoria que abarca
 
 ---
 
-### Experiencia Profesional
+### Proyecto Profesional y Desarrollo Autónomo
 
-**PCGlobal / TERRITORIO LINUX – Autónomo** | (20 años / 5 años respectivamente)
-*   Como administrador de VMs y desarrollador web, garanticé el funcionamiento eficiente de entornos de servidor e implementé aplicaciones web.
-*   Ocupé un puesto clave para asegurar la satisfacción del cliente, ofreciendo soluciones en venta, instalación y mantenimiento de productos.
+Actualmente, dedico mi esfuerzo al desarrollo de un proyecto de negocio propio, utilizando mis repositorios de código como pilares estratégicos. Este trabajo se centra en:
 
-**INFORGLOB, S.L – Operario equipos de cómputo**
-*   Responsable de la operatividad y mantenimiento de sistemas y equipos, mejorando mis capacidades técnicas para identificar y solucionar problemas.
+*   **Visibilidad y Canal Comercial:** A través de mi web profesional (`raulvilchez.org`), establezco un punto de contacto y una plataforma para ofrecer mis servicios de desarrollo y administración de sistemas.
+*   **Calidad y Buenas Prácticas:** Mantengo un hub de documentación centralizado (`docs.raulvilchez.org`) que no solo sirve de apoyo a mis proyectos, sino que también demuestra mi compromiso con la mantenibilidad y la calidad del software.
+*   **Metodología Profesional:** Simulo flujos de trabajo colaborativos en un repositorio (`fork`) para validar y exponer mis competencias en metodologías ágiles, gestión de versiones con Git, Pull Requests y revisión de código, asegurando mi capacidad para integrarme en equipos de desarrollo modernos.
 
-**TECSYS DATA BASES (Inglaterra) – Ayudante de oficina técnica**
-*   Desempeñé un papel crucial en la organización de procesos administrativos y aprendí técnicas específicas en la gestión de bases de datos.
-
-**SURIS INGENIERIA, S.A – Administrativo de Compras**
-*   Mi función se centraba en evitar la escasez o exceso de materiales, asegurando la entrega correcta y contribuyendo a la rentabilidad de los proyectos.
-
-**ELECTRO STOCKS – Responsable de Almacén**
-*   Gestioné el control de stock, un aspecto fundamental que contribuye a fidelizar clientes y aumentar las ventas, aportando valor como "cadena de confianza".
+*(El historial laboral completo, detallando empresas y roles anteriores, está disponible a petición).*
 
 ---
+
+### Trayectoria Profesional Previa
+
+*   **Desarrollo y Sistemas (Autónomo):** Administrador de VMs (Linux) y desarrollador web.
+*   **Roles Técnicos y Administrativos:** Experiencia en soporte técnico, gestión de bases de datos, administración de compras y logística en empresas como INFORGLOB, TECSYS DATA BASES y SURIS INGENIERIA.
+*   **Gestión y Liderazgo:** Responsable de almacén en ELECTRO STOCKS, gestionando equipos y control de stock.
 
 ### Formación
 *   **Grado Medio:** Técnico en sistemas microinformáticos y redes.
