@@ -1,6 +1,6 @@
 # Raúl Vílchez Ruiz
 
-*Frederic Mompou, 10, El Masnou - Barcelona* | *r4u1974@gmail.com* | *[Tu Perfil de LinkedIn/GitHub Aquí]*
+*Frederic Mompou, 10, El Masnou - Barcelona* | *r4u1974@gmail.com* | [Perfil de GitHub](https://github.com/raul-dev2025)
 
 ---
 
